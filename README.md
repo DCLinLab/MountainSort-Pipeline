@@ -1,1 +1,7 @@
-# mountainsort-pipeline
+# MountainSort-Pipeline
+
+## Installation
+
+```bash
+pip install mountainsort5
+```
