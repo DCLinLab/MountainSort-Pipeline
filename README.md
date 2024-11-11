@@ -3,5 +3,5 @@
 ## Installation
 
 ```bash
-pip install mountainsort5
+pip install mountainsort5 pandas
 ```
